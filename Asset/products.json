@@ -1,0 +1,112 @@
+{
+  "products": [
+    {
+      "specs": {
+        "brand": "Apple",
+        "color": "Silver",
+        "ram": "4 GB",
+        "rating": 4,
+        "storage": "16 GB"
+      },
+      "price": {
+        "cost": 1000,
+        "currency": "USD"
+      },
+      "data": {
+        "imgPath": "https://rukminim1.flixcart.com/image/416/416/k9loccw0/mobile/p/z/q/apple-iphone-se-mxd02hn-a-original-imafrcpjfehbbqgb.jpeg?q=70",
+        "id": 1,
+        "title": "Apple SE"
+      }
+    },
+    {
+      "specs": {
+        "brand": "Nokia",
+        "color": "white",
+        "ram": "6 GB",
+        "rating": 3,
+        "storage": "32 GB"
+      },
+      "price": {
+        "cost": 1500,
+        "currency": "USD"
+      },
+      "data": {
+        "imgPath": "https://rukminim1.flixcart.com/image/416/416/k9loccw0/mobile/p/z/q/apple-iphone-se-mxd02hn-a-original-imafrcpjfehbbqgb.jpeg?q=70",
+        "id": 2,
+        "title": "Nokia 7E"
+      }
+    },
+    {
+      "specs": {
+        "brand": "Sony",
+        "color": "silver",
+        "ram": "8 GB",
+        "rating": 4,
+        "storage": "64 GB"
+      },
+      "price": {
+        "cost": 2200,
+        "currency": "USD"
+      },
+      "data": {
+        "imgPath": "https://rukminim1.flixcart.com/image/416/416/k9loccw0/mobile/p/z/q/apple-iphone-se-mxd02hn-a-original-imafrcpjfehbbqgb.jpeg?q=70",
+        "id": 1,
+        "title": "Sony 6S"
+      }
+    },
+    {
+      "specs": {
+        "brand": "Motorola",
+        "color": "Silver",
+        "ram": "8 GB",
+        "rating": 4,
+        "storage": "32 GB"
+      },
+      "price": {
+        "cost": 3000,
+        "currency": "USD"
+      },
+      "data": {
+        "imgPath": "https://rukminim1.flixcart.com/image/416/416/k9loccw0/mobile/p/z/q/apple-iphone-se-mxd02hn-a-original-imafrcpjfehbbqgb.jpeg?q=70",
+        "id": 1,
+        "title": "Motorola RZ"
+      }
+    },
+    {
+      "specs": {
+        "brand": "Motorola",
+        "color": "Silver",
+        "ram": "8 GB",
+        "rating": 4,
+        "storage": "32 GB"
+      },
+      "price": {
+        "cost": 3000,
+        "currency": "USD"
+      },
+      "data": {
+        "imgPath": "https://rukminim1.flixcart.com/image/416/416/k9loccw0/mobile/p/z/q/apple-iphone-se-mxd02hn-a-original-imafrcpjfehbbqgb.jpeg?q=70",
+        "id": 1,
+        "title": "Motorola RZ"
+      }
+    },
+    {
+      "specs": {
+        "brand": "Motorola",
+        "color": "Silver",
+        "ram": "8 GB",
+        "rating": 4,
+        "storage": "32 GB"
+      },
+      "price": {
+        "cost": 3000,
+        "currency": "USD"
+      },
+      "data": {
+        "imgPath": "https://rukminim1.flixcart.com/image/416/416/k9loccw0/mobile/p/z/q/apple-iphone-se-mxd02hn-a-original-imafrcpjfehbbqgb.jpeg?q=70",
+        "id": 1,
+        "title": "Motorola RZ"
+      }
+    }
+  ]
+}

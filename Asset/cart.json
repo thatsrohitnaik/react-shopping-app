@@ -1,0 +1,12 @@
+{
+  "cart":[
+     {
+      "id": 4,
+      "title": "Apple iPhone SE (Black, 64 GB)",
+      "brand": "Apple",
+      "cost": 1000,
+      "imgPath":"https://rukminim1.flixcart.com/image/416/416/k9loccw0/mobile/p/z/q/apple-iphone-se-mxd02hn-a-original-imafrcpjfehbbqgb.jpeg?q=70",
+      "inCart": false
+    }
+  ]
+}

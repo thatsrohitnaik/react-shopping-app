@@ -1,0 +1,5 @@
+{
+    "brands": ["Apple","Sony"],
+    "color": ["red", "white"],
+    "ram":[4,3,2]
+}
